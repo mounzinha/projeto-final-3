@@ -1,0 +1,65 @@
+body{ 
+
+    background-color: #6ed45e;
+}
+#capa{
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url(imgs/women-1822476_640.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #64CA55;
+    background-position: right;
+    color:aliceblue;
+    display: flex;
+    
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    color: rgb(9, 49, 49);
+    text-align: center;
+}
+
+#projeto{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: black;
+    color: rgb(59, 194, 77);
+    border-radius: 10px;
+    border: solid 3px #83aa7d;
+}
+#botão{
+    display: flex;
+   justify-content: space-around;
+    width: 100%;
+}
+#esq{
+    display: flex;
+}
+
+#imagem {
+
+    width: 800px;
+}
+
+.esquerda{
+margin-left: 200px;
+}
+#introdução{
+    font-size: 30px;
+
+    }
+    p{
+        font-family: Merriweather;
+    }
